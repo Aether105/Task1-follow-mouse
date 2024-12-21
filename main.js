@@ -21,7 +21,7 @@
         */
 
         const ball = document.getElementById("ball");
-        //This is a comment
+        //This is a comment again
 
         let mouseX = 740; // Starting position of the ball on the x-axis
         let mouseY = 300; // Starting position of the ball on the y-axis
